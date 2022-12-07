@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "chatgpt",
     "version": "1.0.0"
   },
   "tauri": {
-    "windows": [
+    "macOS": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://chat.openai.com/chat/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
