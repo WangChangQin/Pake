@@ -19,6 +19,29 @@
     },
     "updater": {
       "active": false
+    },
+    "bundle": {
+      "icon": [
+        "icons/chatgpt.icns"
+      ],
+      "identifier": "com.changqin.wang",
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "",
+      "externalBin": [],
+      "longDescription": "",
+      "macOS": {
+        "entitlements": null,
+        "exceptionDomain": "",
+        "frameworks": [],
+        "providerShortName": null,
+        "signingIdentity": null
+      },
+      "resources": [],
+      "shortDescription": "",
+      "targets": [
+        "dmg"
+      ]
     }
   },
   "build": {

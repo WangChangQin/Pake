@@ -7,7 +7,7 @@ import os
 try:
     from PIL import Image
 except ImportError:
-    os.system("pip install Pillow")
+    os.system("pip3 install Pillow")
     from PIL import Image
 
 
